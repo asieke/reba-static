@@ -1,0 +1,1 @@
+import{w as e}from"./index.B9X1wK9c.js";function o(s){return(s==null?void 0:s.length)!==void 0?s:Array.from(s)}const n=()=>localStorage.getItem("openAIKey")||"",u=e(n()),c=e({}),m=e([]),p=e(!1),f=e(!1);c.subscribe(s=>{console.log("userData",s)});export{p as c,o as e,m,u as o,f as s,c as u};
